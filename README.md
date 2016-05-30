@@ -21,6 +21,11 @@ Tentative functions identified for the CPU (and not limited to):
 - High capacity data logging to a SD card
 - Time synchronization with a GoPro
 
+### GPS
+A GPS receiver and antenna will be used for accurate position, velocity and time (PVT) information. GPS time will be used as the reference time on the system. 
+
+### Inertial Measurement Unit (IMU)
+
 ## Bill of Materials (BOM)
 This table lists the parts I am using for the prototype - cost will come down when a PCB is designed and parts can be co-located on a single - compact board.
 
