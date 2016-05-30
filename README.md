@@ -13,6 +13,7 @@ The MotoMonkey consists of two major pieces - 1) The on-board data acquisition s
 ![Alt text](https://cloud.githubusercontent.com/assets/3347351/15641098/427cf59a-25f3-11e6-8442-03b79fd1e716.png)
 
 ## Bill of Materials (BOM)
+This table lists the parts I am using for the prototype - cost will come down when a PCB is designed and parts can be co-located on a single - compact board.
 | Index | Item Name    | Description | Manufacturer | Part Number | Qty | Cost   | Total   |
 | :---: | :--------    | :---------- | :----------- | :---------- | :-: | ---:   | ----:   |
 | 1     | Intel Edison | CPU/MCU     | Intel        | N/A         | 1   | $50.00 | $50.00  |
