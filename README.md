@@ -3,7 +3,7 @@
 I wanted to find a solid data acquisition and telemetry system for track motorcycle riding. Like everything else, commercially available kits are either too expensive for feature rich models or too basic for lower cost models.  MotoMonkey is born. My goal for MotoMonkey is to create an open-source feature-rich data system that is low cost and can be built by anyone with some technical savvy.  
 
 ### Simple Requirements
-1. Cheap, cheap, cheap - Price point to build a MotoMonkey will be about a couple hundred bucks.
+1. Cheap, cheap, cheap - Price point to build a MotoMonkey will be about a few hundred bucks.
 2. Extensible - attempt to make so that sensor integration can be customized and software can be tailored to individual needs.
 3. Data rich - interfaces for the ECU and BlueTooth, sensors for inertial measurement, GPS, and generic IO (analog and digital) for custom sensors and interfaces.
 4. Telemetry - need to do some exploration here - would really like the system to use an ad-hoc network - that may be too far to reach - a simple point to point radio model may be the most achievable.
@@ -11,6 +11,15 @@ I wanted to find a solid data acquisition and telemetry system for track motorcy
 ### System Design
 The MotoMonkey consists of two major pieces - 1) The on-board data acquisition system and 2) a ground station laptop.
 ![Alt text](https://cloud.githubusercontent.com/assets/3347351/15641098/427cf59a-25f3-11e6-8442-03b79fd1e716.png)
+
+## Bill of Materials (BOM)
+| Index | Item Name    | Description | Manufacturer | Part Number | Qty | Cost   | Total   |
+| :---: | :--------    | :---------- | :----------- | :---------- | :-: | ---:   | ----:   |
+| 1     | Intel Edison | CPU/MCU     | Intel        | N/A         | 1   | $50.00 | $50.00  |
+| 2     | XBee Pro 900 | Data Link   | XBee         | N/A         | 2   | $55.00 | $110.00 |
+| 3     | UBlox GPS    | GPS         | UBlox        | N/A         | 1   | $49.00 | $49.00  |
+| 4     | AltIMU-10    | IMU         | Pololu       | N/A         | 1   | $23.00 | $22.00  |
+|       |              |             |              |             |     | Total  | $231.00 |
 
 
 
