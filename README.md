@@ -8,6 +8,9 @@ I wanted to find a solid data acquisition and telemetry system for track motorcy
 3. Data rich - interfaces for the ECU and BlueTooth, sensors for inertial measurement, GPS, and generic IO (analog and digital) for custom sensors and interfaces.
 4. Telemetry - need to do some exploration here - would really like the system to use an ad-hoc network - that may be too far to reach - a simple point to point radio model may be the most achievable.
 
+## System Design
+![Alt text](https://cloud.githubusercontent.com/assets/3347351/15641098/427cf59a-25f3-11e6-8442-03b79fd1e716.png)
+
 ## Installation
 TODO: Describe the installation process
 
