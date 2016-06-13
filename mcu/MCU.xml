@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MCU_CONFIG>
+    <OPTIONS>
+        <OPTION CLASS="General" NAME="TARGET_IP" TYPE="STRING" VALUE="192.168.2.15">
+            <DESCRIPTION>Target device's IP address.</DESCRIPTION>
+        </OPTION>
+    </OPTIONS>
+</MCU_CONFIG>
