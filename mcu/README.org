@@ -2,7 +2,13 @@
 #+STARTUP: hidden
 #+STARTUP: indent
 
+* MCU Hardware Setup
+* MCU Script Setup
+* MCU Software Installation
 * MCU Software
+** Architecture
+** Executive
+
 
 
 
